@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Joshua Foster is a dark matter phenomenologist at the University of Michigan. His research interests include dark matter phenomenology, direct and indirect detection of dark matter and dark sectors, gravitational structure formation, data analysis, and machine learning. He is currently a graduate student at the University of Michigan studying axions and sterile neutrinos and is an incoming Pappalardo Fellow in Physics at MIT in the 2021 academic year.
+Joshua Foster is a particle physicist interested in dark matter phenomenology, direct and indirect detection of dark matter and dark sectors, gravitational structure formation, data analysis, and machine learning. He is currently a graduate student at the University of Michigan studying axions and sterile neutrinos and is an incoming Pappalardo Fellow in Physics at MIT in the 2021 academic year.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
