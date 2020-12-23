@@ -14,7 +14,7 @@ organizations:
   url: https://lsa.umich.edu/physics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include dark matter phenomenology and detection, astrophysical structure formation, and data analysis.
 
 # Interests to show in About widget
 interests:
