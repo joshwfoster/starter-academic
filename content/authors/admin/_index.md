@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joshua W Foster
+title: Joshua W. Foster
 
 # Is this the primary user of the site?
 superuser: true
